@@ -1,4 +1,4 @@
-# IMDB Review Analysis
+# IMDB Review Analysis 🎬
 
 A simple **Sentiment Analysis** project that classifies IMDB movie reviews as **Positive** or **Negative** using **Logistic Regression** and a clean **Tkinter GUI**.
 
